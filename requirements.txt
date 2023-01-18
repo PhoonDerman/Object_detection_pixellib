@@ -1,5 +1,5 @@
-tensorflow-gpu
 opencv-python
+tensorflow-gpu
 scikit-image
 pillow
 pixellib
